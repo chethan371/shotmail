@@ -1,0 +1,2 @@
+# shotmail
+python project
